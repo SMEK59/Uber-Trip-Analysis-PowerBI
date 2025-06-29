@@ -22,7 +22,7 @@ Located in the `Dataset/` folder:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](![Image](https://github.com/user-attachments/assets/bb9e92e6-4951-4b26-af17-7941fcde7887)
+(https://github.com/user-attachments/assets/bb9e92e6-4951-4b26-af17-7941fcde7887) 
 
 ## 📂 Tools Used
 
